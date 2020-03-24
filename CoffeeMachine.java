@@ -25,7 +25,6 @@ public class CoffeeMachine {
         coffeeMax.machineActions();
     }
 
-
     private static String getUserAction() {
 
         String userAction = new Scanner(System.in).next();
